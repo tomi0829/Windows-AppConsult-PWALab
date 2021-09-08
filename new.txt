@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C03C-9168
+
+ Directory of C:\éjratervez‚s 2.0\00_Gyakorlas\testrepo2\Windows-AppConsult-PWALab
+
+2021.09.08.  19:34    <DIR>          .
+2021.09.08.  19:34    <DIR>          ..
+2021.09.08.  14:10             5ÿ912 .gitignore
+2021.09.08.  14:10    <DIR>          Lab
+2021.09.08.  14:10             1ÿ183 LICENSE
+2021.09.08.  14:10    <DIR>          Manual
+2021.09.08.  19:34                 0 new.txt
+2021.09.08.  14:10               930 README.md
+               4 File(s)          8ÿ025 bytes
+               4 Dir(s)  38ÿ516ÿ535ÿ296 bytes free
